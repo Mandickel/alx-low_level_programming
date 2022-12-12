@@ -1,17 +1,17 @@
 #include <stdio.h>
 #include <stdlib.h>
 /**
- * main - starting point
+ *  * main - Starting point
  *
- * Return: 0
+ * Return: ::0
  **/
-int main()
+int main(void)
 {
+
 	char c;
 	
 	for(c='a'; c <= 'z'; ++c)
 
 	     putchar(c);
-
 	     return (0);
 }
