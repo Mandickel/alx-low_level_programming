@@ -4,8 +4,8 @@
  * Description: here
  * Return: 0
  **/
-int main(void) {
-
+int main(void)
+{
 	char c = 'a';
 
 	while (c <= 'z')
