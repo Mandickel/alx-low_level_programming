@@ -3,7 +3,7 @@
  *  main - main block
  *   Description: Print the alphabet in reverse order in lowercase.
  *    Return: 0
- *    */
+ */
 int main(void)
 {
 	char alpha;
