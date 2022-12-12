@@ -18,7 +18,7 @@ int main(void)
 		{
 			putchar(c + '0');
 			putchar(b + '0');
-		}
+
 		if (a < 89)
 	
 		{
@@ -27,9 +27,9 @@ int main(void)
 			putchar(' ');
 	
 		}
-	}
+		}
 		a++;
-
+	}
 		putchar('\n');
 		return (0);
 }
