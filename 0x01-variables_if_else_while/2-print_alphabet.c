@@ -1,12 +1,11 @@
 #include <stdio.h>
-#include <stdlib.h>
 /**
- *  * main - Starting point
- *
- * Return: ::0
+ * main - Starting point
+ * Description: here
+ * Return: 0
  **/
-	int main(void)
-	{
+int main(void)
+{
 
 	char c = 'a';
 
@@ -18,4 +17,4 @@
 	putchar('\n');
 
 	return (0);
-	}
+}
