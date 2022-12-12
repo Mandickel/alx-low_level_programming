@@ -1,8 +1,8 @@
 #include <stdio.h>
 /**
- * main - Starting point
+ * main - Entry point
  * Description: here
- * Return: 0
+ * Return: Always 0 (Success)
  **/
 int main(void)
 {
@@ -10,10 +10,9 @@ int main(void)
 
 	while (c <= 'z')
 	{
-	 putchar(c);
-	     c++;
+	 	putchar(c);
+	     	c++;
 	}
 	putchar('\n');
-
 	return (0);
 }
