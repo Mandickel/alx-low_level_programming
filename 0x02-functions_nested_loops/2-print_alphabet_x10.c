@@ -9,7 +9,7 @@ int main(void)
 {
 	int i;
 
-	while (i = 0; i <= 10;);
+	while(i = 0; i <= 10;);
 	{
 		print_alphabet();
 		i++;
