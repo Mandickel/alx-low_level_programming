@@ -7,11 +7,12 @@
  */
 int main(void)
 {
-	int i=0;
+	int i;
 
-	while (i<10; i++);
+	while (i = 0; i <= 10;);
 	{
 		print_alphabet();
+		i++;
 		return (0);
 	}
 }
