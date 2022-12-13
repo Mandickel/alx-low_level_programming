@@ -2,7 +2,7 @@
 #include <stdlib.h>
 /**
  * _islower - starting point
- *
+ * Description - function that checks for lowercase character.
  * Return: 0
  *
  */
