@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <stdlib.h>
 /**
  * print_sign - prints the sign of a number
  * @n: int to test
