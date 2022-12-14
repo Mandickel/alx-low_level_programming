@@ -3,7 +3,7 @@
 #include <stdlib.h>
 /**
  * print_last_digit - function that prints the last digit of a number
- *
+ * @i: Variable in the argument
  * Return: 0
  *
  */
