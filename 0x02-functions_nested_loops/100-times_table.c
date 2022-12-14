@@ -1,9 +1,9 @@
 #include "main.h"
 /**
- *  * print_times_table - print.
- *   * @n: The multiplication table requested.
- *    * Return: 0
- *     */
+ * print_times_table - print.
+ * @n: The multiplication table requested
+ * Return: 0
+ */
 void print_times_table(int n)
 {
 	int i, j, res;
