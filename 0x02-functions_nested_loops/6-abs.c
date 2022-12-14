@@ -3,7 +3,7 @@
 #include <stdlib.h>
 /**
  * _abs - function to compute the sbolute value of int
- *
+ * @n: checking value 
  * Return: 0
  *
  */
