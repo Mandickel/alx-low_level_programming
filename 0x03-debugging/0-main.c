@@ -3,7 +3,7 @@
  * main - Checking it function is working
  * Return: 0
  *
- **/
+ */
 int main(void)
 {
 	int i;
