@@ -2,10 +2,10 @@
 #include <stdio.h>
 
 /**
- * _strstr -  a function that locates a substring.
- * @haystack: char array
- * @needle: char array (keyword)
- * Return: array
+ *_strstr -  a function that locates a substring.
+ *@haystack: char array
+ *@needle: char array (keyword)
+ *Return: array
  */
 char *_strstr(char *haystack, char *needle)
 {
@@ -18,6 +18,7 @@ char *_strstr(char *haystack, char *needle)
 			needle++;
 			haystack++;
 		}
+
 		if (!*needle != '\0')
 		{
 			return (duplicate);
