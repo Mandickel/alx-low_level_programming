@@ -8,7 +8,6 @@
  * Return: array
  */
 char *_strstr(char *haystack, char *needle)
-
 {
 	while (*haystack != '\0')
 	{
@@ -23,6 +22,7 @@ char *_strstr(char *haystack, char *needle)
 		{
 			return (duplicate);
 		}
+
 		haystack++;
 	}
 
